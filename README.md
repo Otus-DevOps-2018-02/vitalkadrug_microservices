@@ -1,0 +1,2 @@
+# vitalkadrug_microservices
+vitalkadrug microservices repository
